@@ -1,4 +1,4 @@
-# 👋 Vagvedi Kinikar
+# Vagvedi Kinikar
 
 🎓 Computer Science Undergraduate  
 📍 Chennai, India  
