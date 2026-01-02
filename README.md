@@ -18,33 +18,16 @@ My work reflects strong fundamentals, consistent learning, and an engineering-fi
 
 ---
 
+
 ## 🧠 Technical Skill Set
 
-### Languages
-- **Python** (primary)
-- Java
-- C
-- SQL
+| **Category** | **Technologies** |
+|------------|------------------|
+| **Languages** | Python (Primary), Java, C, SQL |
+| **Frameworks & Libraries** | Django, Flask, NumPy, Pandas, Matplotlib |
+| **Databases & Tools** | MySQL, Git & GitHub, Google Colab, VS Code |
+| **Engineering Concepts** | DSA, ML Pipelines & Evaluation, Feature Engineering, REST APIs, Version Control |
 
-### Frameworks & Libraries
-- Django
-- Flask
-- NumPy
-- Pandas
-- Matplotlib
-
-### Databases & Tools
-- MySQL
-- Git & GitHub
-- Google Colab
-- VS Code
-
-### Engineering Concepts
-- Data Structures & Algorithms  
-- ML Pipelines & Model Evaluation  
-- Data Cleaning & Feature Engineering  
-- RESTful Backend Design  
-- Version Control & Collaborative Development  
 
 ---
 
@@ -92,4 +75,5 @@ My work reflects strong fundamentals, consistent learning, and an engineering-fi
 
 ![Contribution Snake](https://raw.githubusercontent.com/Vagvedi/Vagvedi/output/github-contribution-grid-snake.svg)
 
+---
 ⭐ If any repository helps you, consider starring it — it supports consistent open-source work.
