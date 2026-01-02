@@ -62,15 +62,6 @@ My work reflects strong fundamentals, consistent learning, and an engineering-fi
 
 ---
 
-## 📊 GitHub Statistics
-
-![Vagvedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=VagvediKinikar&show_icons=true&hide=issues&count_private=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VagvediKinikar&layout=compact&theme=default&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=VagvediKinikar&hide_border=true)
-
----
 
 ## 📊 How I Work
 - Break problems into **small, testable units**
@@ -96,5 +87,9 @@ My work reflects strong fundamentals, consistent learning, and an engineering-fi
 - Interested in roles involving **data, backend, or ML engineering**
 
 ---
+
+## 🐍 Contribution Activity
+
+![Contribution Snake](https://raw.githubusercontent.com/Vagvedi/Vagvedi/output/github-contribution-grid-snake.svg)
 
 ⭐ If any repository helps you, consider starring it — it supports consistent open-source work.
