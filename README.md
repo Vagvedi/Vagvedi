@@ -23,27 +23,14 @@ My work reflects strong fundamentals, consistent learning, and an engineering-fi
 
 | **Category** | **Technologies** |
 |------------|------------------|
-| **Languages** | Python (Primary), Java, C, SQL |
+| **Languages** | Python (Primary), Java, SQL |
 | **Frameworks & Libraries** | Django, Flask, NumPy, Pandas, Matplotlib |
 | **Databases & Tools** | MySQL, Git & GitHub, Google Colab, VS Code |
-| **Engineering Concepts** | DSA, ML Pipelines & Evaluation, Feature Engineering, REST APIs, Version Control |
+| **Engineering Concepts** | DSA, ML |
 
 
 ---
 
-## 🚀 Highlighted Work
-- **Python Mini Projects**  
-  Modular projects focused on fundamentals, clean logic, and incremental learning  
-
-- **Data Analytics Projects**  
-  Real-world datasets, visual insights, and reproducible analysis workflows  
-
-- **Machine Learning Projects**  
-  End-to-end implementations covering preprocessing, training, evaluation, and iteration  
-
-📌 Repositories are structured, documented, and commit-driven.
-
----
 
 
 ## 📊 How I Work
