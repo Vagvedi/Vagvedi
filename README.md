@@ -32,7 +32,6 @@ My work reflects strong fundamentals, consistent learning, and an engineering-fi
 ---
 
 
-
 ## 📊 How I Work
 - Break problems into **small, testable units**
 - Prefer **frequent, meaningful commits**
