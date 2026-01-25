@@ -86,15 +86,15 @@ My work reflects strong fundamentals, consistent learning, and an **engineering-
 
 <p align="center">
   <a href="https://vagvedi.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
+    
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/vagvedikinikar/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" />
+    
   </a>
   &nbsp;&nbsp;
   <a href="mailto:vagvedikinikar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white" />
+   
   </a>
 </p>
 
