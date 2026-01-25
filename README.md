@@ -13,16 +13,27 @@ My work reflects strong fundamentals, consistent learning, and an **engineering-
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vagvedi&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vagvedi&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+```text
+ENGINEERING TELEMETRY ─────────────────────────
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vagvedi&theme=tokyonight" />
-</p>
+Commits (last year)     : 120+
+Pull Requests           : 1
+Issues Raised           : 0
+Public Repositories     : 15
+OSS Contributions       : Active
 
----
+LANGUAGE DISTRIBUTION ─────────────────────────
+Jupyter Notebook        : ███████████████░░░ 65%
+JavaScript              : █████░░░░░░░░░░░░ 20%
+Python                  : █░░░░░░░░░░░░░░░░ 5%
+TypeScript              : ░░░░░░░░░░░░░░░░░ 3%
+CSS / HTML              : ░░░░░░░░░░░░░░░░░ 7%
+
+CONSISTENCY SIGNALS ───────────────────────────
+Weekly Coding Habit     : ███████░░░ 78%
+Documentation Practice : ████████░░ 82%
+Refactor Frequency      : ██████░░░░ 64%
+
 
 ## 🔍 Core Focus Areas
 - Data Analytics & Visualization  
