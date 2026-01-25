@@ -13,7 +13,7 @@ My work reflects strong fundamentals, consistent learning, and an **engineering-
 
 ## 📊 GitHub Stats
 
-```text
+
 ENGINEERING TELEMETRY ─────────────────────────
 
 Commits (last year)     : 120+
