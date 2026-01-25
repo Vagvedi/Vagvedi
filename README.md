@@ -11,7 +11,7 @@ My work reflects strong fundamentals, consistent learning, and an **engineering-
 
 ---
 
-## 📊 GitHub Stats (Live Engineering Signals)
+## 📊 Stats 
 
 <!-- ROW 1 : ACTIVITY + PERFORMANCE -->
 <p align="center">
