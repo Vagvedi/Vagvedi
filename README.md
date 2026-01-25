@@ -2,7 +2,7 @@
 
 🎓 Computer Science Undergraduate  
 📍 Chennai, India  
-💻 Python | Data Analytics | Machine Learning | Backend Development  
+💻 Python | Data Analytics | Machine Learning | Full Stack Development
 
 I build **data-driven systems**, write **clean, production-oriented code**, and focus on  
 **solving real problems** rather than toy demos.
@@ -100,10 +100,6 @@ My work reflects strong fundamentals, consistent learning, and an **engineering-
 
 <p align="center">
   Open to conversations around <b>engineering, data, backend systems</b>, and meaningful collaborations.
-</p>
-
-<p align="center">
-  <sub>Last updated: February 2026</sub>
 </p>
 
 
