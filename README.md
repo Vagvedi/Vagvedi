@@ -102,6 +102,10 @@ My work reflects strong fundamentals, consistent learning, and an **engineering-
   Open to conversations around <b>engineering, data, backend systems</b>, and meaningful collaborations.
 </p>
 
+<p align="center">
+  <sub>Last updated: February 2026</sub>
+</p>
+
 
 ---
 
