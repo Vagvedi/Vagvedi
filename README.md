@@ -10,9 +10,10 @@ I build **data-driven systems**, write **clean, production-oriented code**, and 
 My work reflects strong fundamentals, consistent learning, and an **engineering-first mindset**.
 
 ---
+
 ## 📊 GitHub Stats (Live Engineering Signals)
 
-<!-- ROW 1 -->
+<!-- ROW 1 : ACTIVITY + PERFORMANCE -->
 <p align="center">
   <img 
     src="https://github-readme-streak-stats.herokuapp.com?user=Vagvedi&theme=tokyonight&hide_border=true"
@@ -24,7 +25,14 @@ My work reflects strong fundamentals, consistent learning, and an **engineering-
   />
 </p>
 
-<!-- ROW 2 -->
+<!-- ROW 2 : SKILL & STACK PULSE -->
+<p align="center">
+  <img 
+    src="https://skillicons.dev/icons?i=python,django,flask,java,mysql,git,github,js,ts,html,css&theme=dark"
+  />
+</p>
+
+<!-- ROW 3 : LANGUAGE DISTRIBUTION -->
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vagvedi&layout=donut&theme=tokyonight&hide_border=true"
@@ -32,25 +40,7 @@ My work reflects strong fundamentals, consistent learning, and an **engineering-
   />
 </p>
 
-
 ---
-
-## ⚡ Engineering Activity Radar
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vagvedi&theme=tokyonight&no-frame=true&column=6" />
-</p>
-
----
-
-## 🧠 Skill & Stack Pulse
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,java,mysql,git,github,js,ts,html,css&theme=dark" />
-</p>
-
----
-
 
 ## 🔍 Core Focus Areas
 - Data Analytics & Visualization  
