@@ -4,8 +4,23 @@
 📍 Chennai, India  
 💻 Python | Data Analytics | Machine Learning | Backend Development  
 
-I build **data-driven systems**, write **clean, production-oriented code**, and focus on **solving real problems** rather than toy demos.  
-My work reflects strong fundamentals, consistent learning, and an engineering-first mindset.
+I build **data-driven systems**, write **clean, production-oriented code**, and focus on  
+**solving real problems** rather than toy demos.
+
+My work reflects strong fundamentals, consistent learning, and an **engineering-first mindset**.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vagvedi&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vagvedi&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vagvedi&theme=tokyonight" />
+</p>
 
 ---
 
@@ -18,8 +33,6 @@ My work reflects strong fundamentals, consistent learning, and an engineering-fi
 
 ---
 
-
-
 ## 🧠 Technical Skill Set
 
 | **Category** | **Technologies** |
@@ -27,16 +40,14 @@ My work reflects strong fundamentals, consistent learning, and an engineering-fi
 | **Languages** | Python (Primary), Java, SQL |
 | **Frameworks & Libraries** | Django, Flask, NumPy, Pandas, Matplotlib |
 | **Databases & Tools** | MySQL, Git & GitHub, Google Colab, VS Code |
-| **Engineering Concepts** | DSA, ML |
-
+| **Engineering Concepts** | DSA, Machine Learning |
 
 ---
-
 
 ## 📊 How I Work
 - Break problems into **small, testable units**
 - Prefer **frequent, meaningful commits**
-- Document decisions via README & issues
+- Document decisions via **README & issues**
 - Optimize for **clarity before cleverness**
 
 > Engineering is not about writing more code — it’s about writing the right code.
@@ -54,7 +65,7 @@ My work reflects strong fundamentals, consistent learning, and an engineering-fi
 ## 🤝 Opportunities
 - Open to **internships**, **project collaborations**, and **learning-driven roles**
 - Comfortable with independent and team-based development
-- Interested in roles involving **data, backend, or ML engineering**
+- Interested in **data, backend, or ML engineering roles**
 
 ---
 
@@ -63,4 +74,5 @@ My work reflects strong fundamentals, consistent learning, and an engineering-fi
 ![Contribution Snake](https://raw.githubusercontent.com/Vagvedi/Vagvedi/output/github-contribution-grid-snake.svg)
 
 ---
+
 ⭐ If any repository helps you, consider starring it — it supports consistent open-source work.
