@@ -12,14 +12,26 @@ My work reflects strong fundamentals, consistent learning, and an **engineering-
 ---
 ## 📊 GitHub Stats (Live Engineering Signals)
 
+<!-- ROW 1 -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vagvedi&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Vagvedi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=Vagvedi&theme=tokyonight&hide_border=true"
+    width="48%"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Vagvedi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    width="48%"
+  />
 </p>
 
+<!-- ROW 2 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vagvedi&layout=donut&theme=tokyonight&hide_border=true" width="40%" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vagvedi&layout=donut&theme=tokyonight&hide_border=true"
+    width="42%"
+  />
 </p>
+
 
 ---
 
