@@ -10,29 +10,34 @@ I build **data-driven systems**, write **clean, production-oriented code**, and 
 My work reflects strong fundamentals, consistent learning, and an **engineering-first mindset**.
 
 ---
+## 📊 GitHub Stats (Live Engineering Signals)
 
-## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vagvedi&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vagvedi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vagvedi&layout=donut&theme=tokyonight&hide_border=true" width="40%" />
+</p>
 
-ENGINEERING TELEMETRY ─────────────────────────
+---
 
-Commits (last year)     : 120+
-Pull Requests           : 1
-Issues Raised           : 0
-Public Repositories     : 15
-OSS Contributions       : Active
+## ⚡ Engineering Activity Radar
 
-LANGUAGE DISTRIBUTION ─────────────────────────
-Jupyter Notebook        : ███████████████░░░ 65%
-JavaScript              : █████░░░░░░░░░░░░ 20%
-Python                  : █░░░░░░░░░░░░░░░░ 5%
-TypeScript              : ░░░░░░░░░░░░░░░░░ 3%
-CSS / HTML              : ░░░░░░░░░░░░░░░░░ 7%
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vagvedi&theme=tokyonight&no-frame=true&column=6" />
+</p>
 
-CONSISTENCY SIGNALS ───────────────────────────
-Weekly Coding Habit     : ███████░░░ 78%
-Documentation Practice : ████████░░ 82%
-Refactor Frequency      : ██████░░░░ 64%
+---
+
+## 🧠 Skill & Stack Pulse
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,flask,java,mysql,git,github,js,ts,html,css&theme=dark" />
+</p>
+
+---
 
 
 ## 🔍 Core Focus Areas
