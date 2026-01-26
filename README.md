@@ -16,9 +16,10 @@ My work reflects strong fundamentals, consistent learning, and an **engineering-
 <!-- ROW 1 : ACTIVITY + PERFORMANCE -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vagvedi&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=Vagvedi&theme=tokyonight&no-frame=true&column=6"
+  />
 </p>
-
 <!-- ROW 2 : SKILL & STACK PULSE -->
 <p align="center">
   <img 
