@@ -15,11 +15,7 @@ My work reflects strong fundamentals, consistent learning, and an **engineering-
 
 <!-- ROW 1 : ACTIVITY + PERFORMANCE -->
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=Vagvedi&theme=tokyonight&hide_border=true"
-    width="48%"
-  />
-  
+  <img src="https://skillicons.dev/icons?i=python,django,flask,java,mysql,git,github,js,ts,html,css&theme=dark&perline=11" />
 </p>
 
 <!-- ROW 2 : SKILL & STACK PULSE -->
