@@ -15,23 +15,10 @@ My work reflects strong fundamentals, consistent learning, and an **engineering-
 
 
 <!-- ROW 1 : CONSISTENCY + PERFORMANCE -->
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=Vagvedi&theme=tokyonight&hide_border=true"
-    width="48%"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Vagvedi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    width="48%"
-  />
-</p>
+
 
 <!-- ROW 2 : ENGINEERING ACTIVITY (RADAR REPLACEMENT) -->
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=Vagvedi&theme=tokyonight&no-frame=true&column=6"
-  />
-</p>
+
 
 <!-- ROW 3 : SKILL & STACK PULSE -->
 <p align="center">
@@ -47,6 +34,7 @@ My work reflects strong fundamentals, consistent learning, and an **engineering-
     width="42%"
   />
 </p>
+
 ---
 
 ## 🔍 Core Focus Areas
