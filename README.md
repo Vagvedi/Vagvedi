@@ -11,7 +11,7 @@ My work reflects strong fundamentals, consistent learning, and an **engineering-
 
 ---
 
-## 🧭 Codecraft Telemetry
+## 🧭 Language Stats
 
 
 <!-- ROW 1 : CONSISTENCY + PERFORMANCE -->
