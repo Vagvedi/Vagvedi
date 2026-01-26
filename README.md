@@ -14,8 +14,9 @@ My work reflects strong fundamentals, consistent learning, and an **engineering-
 ## 🧭 Codecraft Telemetry
 
 <!-- ROW 1 : ACTIVITY + PERFORMANCE -->
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,java,mysql,git,github,js,ts,html,css&theme=dark&perline=11" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vagvedi&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <!-- ROW 2 : SKILL & STACK PULSE -->
