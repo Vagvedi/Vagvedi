@@ -1,167 +1,115 @@
-<!-- ===================== HERO SECTION ===================== -->
+# Vagvedi Kinikar
+
+🎓 Computer Science Undergraduate  
+📍 Chennai, India  
+💻 Python | Data Analytics | Machine Learning | Full Stack Development
+
+I build **data-driven systems**, write **clean, production-oriented code**, and focus on  
+**solving real problems** rather than toy demos.
+
+My work reflects strong fundamentals, consistent learning, and an **engineering-first mindset**.
+
+---
+
+## 🧭 Language Stats
+
+
+<!-- ROW 1 : CONSISTENCY + PERFORMANCE -->
+
+
+<!-- ROW 2 : ENGINEERING ACTIVITY (RADAR REPLACEMENT) -->
+
+
+<!-- ROW 3 : SKILL & STACK PULSE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:000000&height=190&section=header&text=Vagvedi%20Kinikar&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn" />
+  <img 
+    src="https://skillicons.dev/icons?i=python,django,flask,java,mysql,git,github,js,ts,html,css&theme=dark&perline=8"
+  />
 </p>
 
+<!-- ROW 4 : LANGUAGE DISTRIBUTION -->
 <p align="center">
-  <b>Computer Science Undergraduate</b><br>
-  Backend Systems • Machine Learning • Data Engineering
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vagvedi&layout=donut&theme=tokyonight&hide_border=true"
+    width="42%"
+  />
 </p>
 
-<p align="center">
-  📍 Chennai, India
-</p>
+---
 
-<br>
-
-<!-- ===================== INTRO ===================== -->
-<p align="center">
-I design and build <b>data-driven, backend-heavy systems</b> with a strong focus on<br>
-correctness, scalability, and long-term maintainability.
-</p>
-
-<p align="center">
-I avoid toy demos and optimize for <b>real-world engineering constraints</b>,<br>
-clean abstractions, and production readiness.
-</p>
-
-<hr>
-
-<!-- ===================== TECH ICON STRIP ===================== -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,django,flask,mysql,git&theme=dark" />
-</p>
-
-<hr>
-
-<!-- ===================== FEATURE CARDS ===================== -->
-<table align="center">
-<tr>
-<td align="center" width="33%">
-<b>⚙️ Backend Systems</b><br><br>
-API design, databases,<br>
-scalable architecture<br><br>
-<i>clarity > complexity</i>
-</td>
-
-<td align="center" width="33%">
-<b>🧠 Machine Learning</b><br><br>
-End-to-end pipelines<br>
-data → model → evaluation<br><br>
-<i>applied, not theoretical</i>
-</td>
-
-<td align="center" width="33%">
-<b>📊 Data Analytics</b><br><br>
-Decision-oriented insights<br>
-not just charts<br><br>
-<i>signal over noise</i>
-</td>
-</tr>
-</table>
-
-<hr>
-
-<!-- ===================== CORE FOCUS ===================== -->
 ## 🔍 Core Focus Areas
-- Applied Machine Learning (end-to-end thinking)
-- Backend Development & Database Design
-- Data Analytics & Insight Generation
-- Data Structures & Algorithms
-- Clean Code, Modularity & Scalable Systems
+- Data Analytics & Visualization  
+- Machine Learning (Applied, end-to-end)  
+- Backend Development & Databases  
+- Data Structures & Algorithms  
+- Clean Code & Scalable Design  
 
-<hr>
+---
 
-<!-- ===================== TECH STACK ===================== -->
 ## 🧠 Technical Skill Set
 
-<table align="center">
-<tr>
-<td><b>Languages</b></td>
-<td>Python (Primary), Java, SQL</td>
-</tr>
-<tr>
-<td><b>ML & Data</b></td>
-<td>NumPy, Pandas, Matplotlib</td>
-</tr>
-<tr>
-<td><b>Frameworks</b></td>
-<td>Django, Flask</td>
-</tr>
-<tr>
-<td><b>Databases</b></td>
-<td>MySQL</td>
-</tr>
-<tr>
-<td><b>Tools</b></td>
-<td>Git, GitHub, VS Code, Google Colab</td>
-</tr>
-<tr>
-<td><b>Core Concepts</b></td>
-<td>DSA, Machine Learning, Backend Architecture</td>
-</tr>
-</table>
+| **Category** | **Technologies** |
+|------------|------------------|
+| **Languages** | Python (Primary), Java, SQL |
+| **Frameworks & Libraries** | Django, Flask, NumPy, Pandas, Matplotlib |
+| **Databases & Tools** | MySQL, Git & GitHub, Google Colab, VS Code |
+| **Engineering Concepts** | DSA, Machine Learning |
 
-<hr>
+---
 
-<!-- ===================== ENGINEERING PHILOSOPHY ===================== -->
-## ⚙️ How I Engineer
-- Break complex problems into **small, verifiable units**
-- Write code that is readable before it is clever
-- Prefer explicit design over hidden abstractions
-- Commit early, commit meaningfully
-- Treat documentation as part of the system
+## 📊 How I Work
+- Break problems into **small, testable units**
+- Prefer **frequent, meaningful commits**
+- Document decisions via **README & issues**
+- Optimize for **clarity before cleverness**
 
-<p align="center">
-  <i>
-    Engineering is not about writing more code.<br>
-    It’s about removing unnecessary complexity.
-  </i>
-</p>
+> Engineering is not about writing more code — it’s about writing the right code.
 
-<hr>
+---
 
-<!-- ===================== STATS ===================== -->
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vagvedi&show_icons=true&hide_border=true&theme=github_dark" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vagvedi&hide_border=true&theme=github-dark" height="165"/>
-</p>
-
-<hr>
-
-<!-- ===================== CURRENT FOCUS ===================== -->
 ## 🎯 Currently Improving
-- Advanced DSA & algorithmic depth
-- Backend scalability & system design patterns
-- ML model evaluation & optimization
-- Industry-grade documentation practices
+- Advanced DSA problem-solving  
+- Backend scalability patterns  
+- Model optimization & evaluation  
+- Industry-grade documentation practices  
 
-<hr>
+---
 
-<!-- ===================== CONTRIBUTION SNAKE ===================== -->
+## 🤝 Opportunities
+- Open to **internships**, **project collaborations**, and **learning-driven roles**
+- Comfortable with independent and team-based development
+- Interested in **data, backend, or ML engineering roles**
+
+---
+
 ## 🐍 Contribution Activity
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
+![Contribution Snake](https://raw.githubusercontent.com/Vagvedi/Vagvedi/output/github-contribution-grid-snake.svg)
 
-<hr>
+---
 
-<!-- ===================== CONNECT ===================== -->
-## 🤝 Let’s Connect
+## 🤝 Connect with Me
 
 <p align="center">
-Open to conversations around <b>engineering systems</b>, backend architecture,<br>
-machine learning workflows, and meaningful technical collaboration.
+  <a href="https://vagvedi.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/vagvedikinikar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:vagvedikinikar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-⭐ If any repository helps you, consider starring it.
+  Open to conversations around <b>engineering, data, backend systems</b>, and meaningful collaborations.
 </p>
 
-<!-- ===================== FOOTER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=70&section=footer"/>
-</p>
+
+
+---
+
+⭐ If any repository helps you, consider starring it — it supports consistent open-source work.
