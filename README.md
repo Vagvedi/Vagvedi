@@ -30,7 +30,7 @@ My work reflects strong fundamentals, consistent learning, and an **engineering-
 <!-- ROW 4 : LANGUAGE DISTRIBUTION -->
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vagvedi&layout=donut&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vagvedi&layout=compact&theme=tokyonight&hide_border=true"
     width="42%"
   />
 </p>
