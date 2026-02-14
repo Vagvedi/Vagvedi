@@ -11,34 +11,6 @@ My work reflects strong fundamentals, consistent learning, and an **engineering-
 
 ---
 
-
-## 🧭 Language & GitHub Stats
-
-<p align="center">
-
-  <!-- SKILL ICONS -->
-  <img 
-    src="https://skillicons.dev/icons?i=python,django,flask,java,mysql,git,github,js,ts,html,css&theme=dark&perline=8"
-  />
-
-</p>
-
-<p align="center">
-
-  <!-- STATS CARD -->
-  <img height="165em"
-    src="https://github-readme-stats.vercel.app/api?username=Vagvedi-Kinikar&show_icons=true&theme=tokyonight"
-  />
-
-<img 
-  src="https://gh-stats-gen.vercel.app/api?username=Vagvedi-Kinikar&theme=tokyonight"
-/>
-
-
-</p>
-
-
-
 ## 🔍 Core Focus Areas
 - Data Analytics & Visualization  
 - Machine Learning (Applied, end-to-end)  
@@ -86,7 +58,7 @@ My work reflects strong fundamentals, consistent learning, and an **engineering-
 
 ## 🐍 Contribution Activity
 
-![Contribution Snake](https://raw.githubusercontent.com/Vagvedi/Vagvedi/output/github-contribution-grid-snake.svg)
+![Neon Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vagvedi-Kinikar&theme=react-dark&hide_border=true)
 
 ---
 
@@ -109,7 +81,6 @@ My work reflects strong fundamentals, consistent learning, and an **engineering-
 <p align="center">
   Open to conversations around <b>engineering, data, backend systems</b>, and meaningful collaborations.
 </p>
-
 
 
 ---
