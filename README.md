@@ -58,7 +58,11 @@ My work reflects strong fundamentals, consistent learning, and an **engineering-
 
 ## 🐍 Contribution Activity
 
+![Contribution Snake](https://raw.githubusercontent.com/Vagvedi/Vagvedi/output/github-contribution-grid-snake.svg)
+![Terminal Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vagvedi&theme=rogue&hide_border=true)
+![Fire Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vagvedi&theme=react-dark&bg_color=0d1117&line=ff6b6b&point=ffd93d&area=true)
 ![Pacman Graph](https://pacman-contribution-graph.vercel.app/graph?username=Vagvedi&theme=github-dark)
+
 ---
 
 ## 🤝 Connect with Me
