@@ -13,30 +13,27 @@ My work reflects strong fundamentals, consistent learning, and an **engineering-
 
 ## 🧭 Language Stats
 
+## 🧭 Language & GitHub Stats
+
 <p align="center">
 
+  <!-- SKILL ICONS -->
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vagvedi-Kinikar&theme=tokyonight"
+    src="https://skillicons.dev/icons?i=python,django,flask,java,mysql,git,github,js,ts,html,css&theme=dark&perline=8"
   />
 
 </p>
 
 <p align="center">
 
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vagvedi-Kinikar&theme=tokyonight"
+  <!-- STATS CARD -->
+  <img height="165em"
+    src="https://github-readme-stats.vercel.app/api?username=Vagvedi-Kinikar&show_icons=true&theme=tokyonight"
   />
 
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vagvedi-Kinikar&theme=tokyonight"
-  />
-
-</p>
-
-<p align="center">
-
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vagvedi-Kinikar&theme=tokyonight"
+  <!-- LANGUAGES CARD -->
+  <img height="165em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vagvedi-Kinikar&layout=compact&theme=tokyonight"
   />
 
 </p>
