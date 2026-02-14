@@ -58,7 +58,7 @@ My work reflects strong fundamentals, consistent learning, and an **engineering-
 
 ## 🐍 Contribution Activity
 
-![Neon Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vagvedi-Kinikar&theme=react-dark&hide_border=true)
+![Neon Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vagvedi&theme=react-dark&hide_border=true)
 
 ---
 
