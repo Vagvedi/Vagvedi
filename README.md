@@ -11,7 +11,6 @@ My work reflects strong fundamentals, consistent learning, and an **engineering-
 
 ---
 
-## 🧭 Language Stats
 
 ## 🧭 Language & GitHub Stats
 
@@ -31,10 +30,10 @@ My work reflects strong fundamentals, consistent learning, and an **engineering-
     src="https://github-readme-stats.vercel.app/api?username=Vagvedi-Kinikar&show_icons=true&theme=tokyonight"
   />
 
-  <!-- LANGUAGES CARD -->
-  <img height="165em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vagvedi-Kinikar&layout=compact&theme=tokyonight"
-  />
+<img 
+  src="https://gh-stats-gen.vercel.app/api?username=Vagvedi-Kinikar&theme=tokyonight"
+/>
+
 
 </p>
 
