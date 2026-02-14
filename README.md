@@ -13,29 +13,31 @@ My work reflects strong fundamentals, consistent learning, and an **engineering-
 
 ## 🧭 Language Stats
 
-
-<!-- ROW 1 : CONSISTENCY + PERFORMANCE -->
-
-
-<!-- ROW 2 : ENGINEERING ACTIVITY (RADAR REPLACEMENT) -->
-
-
-<!-- ROW 3 : SKILL & STACK PULSE -->
 <p align="center">
+
+  <!-- SKILL ICONS -->
   <img 
     src="https://skillicons.dev/icons?i=python,django,flask,java,mysql,git,github,js,ts,html,css&theme=dark&perline=8"
   />
+
 </p>
 
-<!-- ROW 4 : LANGUAGE DISTRIBUTION -->
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vagvedi&layout=compact&theme=tokyonight&hide_border=true"
-    width="42%"
+
+  <!-- GITHUB STATS CARD -->
+  <img height="165em"
+    src="https://github-readme-stats.vercel.app/api?username=Vagvedi-Kinikar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
   />
+
+  <!-- TOP LANGUAGES CARD -->
+  <img height="165em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vagvedi-Kinikar&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"
+  />
+
 </p>
 
 ---
+
 
 ## 🔍 Core Focus Areas
 - Data Analytics & Visualization  
