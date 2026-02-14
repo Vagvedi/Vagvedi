@@ -58,7 +58,7 @@ My work reflects strong fundamentals, consistent learning, and an **engineering-
 
 ## 🐍 Contribution Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vagvedi&theme=tokyo-night&hide_border=true&area=true)
+![Pacman Graph](https://pacman-contribution-graph.vercel.app/graph?username=Vagvedi-Kinikar&theme=github-dark)
 
 ---
 
