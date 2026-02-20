@@ -1,58 +1,35 @@
-# Vagvedi Kinikar
+# Vagvedi Kinikar  
 
-🎓 Computer Science Undergraduate  
-📍 Chennai, India  
-💻 Python | Data Analytics | Machine Learning | Full Stack Development
+🎓 Computer Science Undergraduate | Chennai, India  
+💻 Python • Data Analytics • Machine Learning • Backend Development  
 
-I build **data-driven systems**, write **clean, production-oriented code**, and focus on  
-**solving real problems** rather than toy demos.
-
-My work reflects strong fundamentals, consistent learning, and an **engineering-first mindset**.
+I build **data-driven systems** with clean, production-focused code and a strong engineering mindset, focused on solving real-world problems.
 
 ---
 
-## 🔍 Core Focus Areas
+## 🔍 Core Areas  
 - Data Analytics & Visualization  
-- Machine Learning (Applied, end-to-end)  
-- Backend Development & Databases  
+- Applied Machine Learning  
+- Backend Development  
 - Data Structures & Algorithms  
-- Clean Code & Scalable Design  
 
 ---
 
-## 🧠 Technical Skill Set
-
-| **Category** | **Technologies** |
-|------------|------------------|
-| **Languages** | Python (Primary), Java, SQL |
-| **Frameworks & Libraries** | Django, Flask, NumPy, Pandas, Matplotlib |
-| **Databases & Tools** | MySQL, Git & GitHub, Google Colab, VS Code |
-| **Engineering Concepts** | DSA, Machine Learning |
+## 🧠 Tech Stack  
+**Languages:** Python, Java, SQL  
+**Frameworks:** Django, Flask  
+**Libraries:** NumPy, Pandas, Matplotlib  
+**Tools:** MySQL, Git, GitHub, VS Code  
 
 ---
 
-## 📊 How I Work
-- Break problems into **small, testable units**
-- Prefer **frequent, meaningful commits**
-- Document decisions via **README & issues**
-- Optimize for **clarity before cleverness**
-
-> Engineering is not about writing more code — it’s about writing the right code.
+## 🎯 Currently Improving  
+Advanced DSA • Backend Scalability • Model Optimization  
 
 ---
 
-## 🎯 Currently Improving
-- Advanced DSA problem-solving  
-- Backend scalability patterns  
-- Model optimization & evaluation  
-- Industry-grade documentation practices  
-
----
-
-## 🤝 Opportunities
-- Open to **internships**, **project collaborations**, and **learning-driven roles**
-- Comfortable with independent and team-based development
-- Interested in **data, backend, or ML engineering roles**
+## 🤝 Open To  
+Internships • ML / Backend Roles • Meaningful Collaborations  
 
 ---
 
