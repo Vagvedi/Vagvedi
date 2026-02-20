@@ -5,7 +5,6 @@
 
 I build **data-driven systems** with clean, production-focused code and a strong engineering mindset, focused on solving real-world problems.
 
----
 
 ## 🔍 Core Areas  
 - Data Analytics & Visualization  
@@ -13,7 +12,6 @@ I build **data-driven systems** with clean, production-focused code and a strong
 - Backend Development  
 - Data Structures & Algorithms  
 
----
 
 ## 🧠 Tech Stack  
 **Languages:** Python, Java, SQL  
@@ -21,23 +19,15 @@ I build **data-driven systems** with clean, production-focused code and a strong
 **Libraries:** NumPy, Pandas, Matplotlib  
 **Tools:** MySQL, Git, GitHub, VS Code  
 
----
 
 ## 🎯 Currently Improving  
 Advanced DSA • Backend Scalability • Model Optimization  
 
----
-
-## 🤝 Open To  
-Internships • ML / Backend Roles • Meaningful Collaborations  
-
----
 
 ## 🐍 Contribution Activity
 
 ![Contribution Snake](https://raw.githubusercontent.com/Vagvedi/Vagvedi/output/github-contribution-grid-snake.svg)
 
----
 
 ## 🤝 Connect with Me
 
