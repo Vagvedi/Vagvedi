@@ -1,15 +1,14 @@
 # Vagvedi Kinikar  
 
 🎓 Computer Science Undergraduate | Chennai, India  
-💻 Python • Data Analytics • Machine Learning • Backend Development  
+💻 Python • Data Analytics • Full-Stack Development  
 
 I build **data-driven systems** with clean, production-focused code and a strong engineering mindset, focused on solving real-world problems.
 
 
 ## 🔍 Core Areas  
-- Data Analytics & Visualization  
-- Applied Machine Learning  
-- Backend Development  
+- Data Analytics & Visualization 
+- Full-Stack Development  
 - Data Structures & Algorithms  
 
 
