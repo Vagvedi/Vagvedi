@@ -25,19 +25,10 @@
 
 ---
 
-## 🧠 Tech Stack  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,sql,django,flask,mysql,git,github,vscode" />
-</p>
-
----
-
 ## 📊 GitHub Stats  
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vagvedi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Vagvedi&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
 
 <p align="center">
