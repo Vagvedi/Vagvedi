@@ -1,32 +1,66 @@
-# Vagvedi Kinikar  
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm Vagvedi Kinikar</h1>
+<h3 align="center">🚀 Full-Stack Developer | Data-Driven Builder</h3>
 
-🎓 Computer Science Undergraduate | Chennai, India  
-💻 Python • Data Analytics • Full-Stack Development  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Python+Developer;Full+Stack+Engineer;Data+Analytics+Enthusiast;Building+Scalable+Systems;Future+SDE" />
+</p>
 
-I build **data-driven systems** with clean, production-focused code and a strong engineering mindset, focused on solving real-world problems.
+---
 
+<!-- BADGES -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vagvedi&label=Profile%20Views&color=00F7FF&style=flat" />
+  <img src="https://img.shields.io/github/followers/Vagvedi?label=Followers&style=social" />
+</p>
 
-## 🔍 Core Areas  
-- Data Analytics & Visualization 
-- Full-Stack Development  
-- Data Structures & Algorithms  
+---
 
+## 💫 About Me  
+
+💻 I build **scalable backend systems & data-driven applications**  
+📊 Passionate about **analytics + real-world problem solving**  
+⚡ Focused on **clean, production-grade engineering**  
+🎯 Targeting **top-tier tech roles**
+
+---
 
 ## 🧠 Tech Stack  
-**Languages:** Python, Java, SQL  
-**Frameworks:** Django, Flask  
-**Libraries:** NumPy, Pandas, Matplotlib  
-**Tools:** MySQL, Git, GitHub, VS Code  
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,sql,django,flask,mysql,git,github,vscode" />
+</p>
 
-## 🎯 Currently Improving  
-Advanced DSA • Backend Scalability • Model Optimization  
+---
 
+## 📊 GitHub Stats  
 
-## 🐍 Contribution Activity
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vagvedi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Vagvedi&theme=tokyonight&hide_border=true&background=0D1117" />
+</p>
 
-![Contribution Snake](https://raw.githubusercontent.com/Vagvedi/Vagvedi/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vagvedi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</p>
 
+---
+
+## 📈 Activity Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vagvedi&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
+</p>
+
+---
+
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vagvedi/Vagvedi/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
 
 ## 🤝 Connect with Me
 
