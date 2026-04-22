@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vagvedi Kinikar</h1>
 <h3 align="center">🚀 Full-Stack Developer | Data-Driven Builder</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Python+Developer;Full+Stack+Engineer;Data+Analytics+Enthusiast;Building+Scalable+Systems;Future+SDE" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Python+Developer;Data+Analytics+Enthusiast;Building+Scalable+Systems"/>
 </p>
 
 ---
