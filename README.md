@@ -1,5 +1,7 @@
 <!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Vagvedi Kinikar</h1>
+🎓 Computer Science Undergraduate | Chennai, India 
+💻 Python • Data Analytics • Full-Stack Development
 <h3 align="center">🚀 Full-Stack Developer | Data-Driven Builder</h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Python+Developer;Data+Analytics+Enthusiast;Building+Scalable+Systems"/>
@@ -8,7 +10,6 @@
 ---
 
 ## 💫 About Me  
-
 💻 I build **scalable backend systems & data-driven applications**  
 📊 Passionate about **analytics + real-world problem solving**  
 ⚡ Focused on **clean, production-grade engineering**  
@@ -21,19 +22,6 @@
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vagvedi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vagvedi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</p>
-
----
-
-## 📈 Activity Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vagvedi&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
-</p>
-
 ---
 
 ## 🐍 Contribution Snake  
