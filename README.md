@@ -43,10 +43,10 @@
 ## 🧠 Engineering Philosophy
 
 ```
-SYSTEMS      ████████████████████  Think architecture first, syntax second
-ITERATION    ████████████████████  Build → Break → Optimize → Scale
-IMPACT       ████████████████████  Code that solves real problems
-CONSISTENCY  ████████████████████  Show up. Ship. Compound.
+                                     SYSTEMS      ████████████████████  Think architecture first, syntax second
+                                     ITERATION    ████████████████████  Build → Break → Optimize → Scale
+                                     IMPACT       ████████████████████  Code that solves real problems
+                                     CONSISTENCY  ████████████████████  Show up. Ship. Compound.
 ```
 
 
@@ -96,7 +96,6 @@ CONSISTENCY  ████████████████████  Show 
 *Let's build something meaningful.*
 *Open to collaborations, ideas, and opportunities.*
 
-<br/>
 
 ⭐ If you like my work, consider starring a repo — it helps more than you think.
 
