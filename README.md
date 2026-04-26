@@ -36,41 +36,30 @@
 &nbsp;&nbsp;
 <img src="https://streak-stats.demolab.com?user=Vagvedi&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&sideLabels=8B949E&dates=8B949E" height="160"/>
 
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vagvedi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=8B949E" height="130"/>
-
 </div>
 
 ---
 
-<!-- CONTRIBUTION SNAKE -->
-## ⚡ Contribution Intelligence
+## 🧠 Engineering Philosophy
 
-<p align="center"> <img src="https://raw.githubusercontent.com/Vagvedi/Vagvedi/output/github-contribution-grid-snake.svg" /> </p>
+```js
+// core engineering principles — v∞, no deprecation planned
 
----
+const SYSTEMS      = "Think in systems, not just syntax";
+                   // architecture before implementation, always
 
-<!-- PHILOSOPHY -->
-🧠 Engineering Philosophy
-<pre>
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│   01 → SYSTEMS       Think in systems, not just syntax.         │
-│                      Architecture before implementation.        │
-│                                                                 │
-│   02 → ITERATION     Build → Break → Optimize → Scale.          │
-│                      Embrace the cycle, relentlessly.           │
-│                                                                 │
-│   03 → IMPACT        Code for real-world change.                │
-│                      Solve problems that matter.                │
-│                                                                 │
-│   04 → CONSISTENCY   Consistency beats intensity.               │
-│                      Show up. Ship. Compound.                   │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-</pre>
----
+const ITERATION    = "Build → Break → Optimize → Scale";
+                   // embrace the cycle, relentlessly
+
+const IMPACT       = "Code for real-world change, not just output";
+                   // solve problems that actually matter
+
+const CONSISTENCY  = "Show up. Ship. Compound.";
+                   // consistency beats intensity, every time
+
+export default { SYSTEMS, ITERATION, IMPACT, CONSISTENCY };
+
+```
 
 <!-- TECH STACK -->
 ## ⚙️ Tech Stack
@@ -92,6 +81,13 @@
 | **Tools** | Git · GitHub · Figma · Linux |
 
 </div>
+
+---
+
+<!-- CONTRIBUTION SNAKE -->
+## ⚡ Contribution Intelligence
+
+<p align="center"> <img src="https://raw.githubusercontent.com/Vagvedi/Vagvedi/output/github-contribution-grid-snake.svg" /> </p>
 
 ---
 
