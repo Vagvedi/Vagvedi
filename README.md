@@ -9,12 +9,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=120&section=header&text=&animation=fadeIn"/>
 
 ```
-           ██╗   ██╗ █████╗  ██████╗ ██╗   ██╗███████╗██████╗ ██╗
-           ██║   ██║██╔══██╗██╔════╝ ██║   ██║██╔════╝██╔══██╗██║
-           ██║   ██║███████║██║  ███╗██║   ██║█████╗  ██║  ██║██║
-           ╚██╗ ██╔╝██╔══██║██║   ██║╚██╗ ██╔╝██╔══╝  ██║  ██║██║
-            ╚████╔╝ ██║  ██║╚██████╔╝ ╚████╔╝ ███████╗██████╔╝██║
-             ╚═══╝  ╚═╝  ╚═╝ ╚═════╝   ╚═══╝  ╚══════╝╚═════╝ ╚═╝
+         ██╗   ██╗ █████╗  ██████╗ ██╗   ██╗███████╗██████╗ ██╗
+         ██║   ██║██╔══██╗██╔════╝ ██║   ██║██╔════╝██╔══██╗██║
+         ██║   ██║███████║██║  ███╗██║   ██║█████╗  ██║  ██║██║
+         ╚██╗ ██╔╝██╔══██║██║   ██║╚██╗ ██╔╝██╔══╝  ██║  ██║██║
+          ╚████╔╝ ██║  ██║╚██████╔╝ ╚████╔╝ ███████╗██████╔╝██║
+           ╚═══╝  ╚═╝  ╚═╝ ╚═════╝   ╚═══╝  ╚══════╝╚═════╝ ╚═╝
 ```
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&pause=500&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Real-World+Tech+Systems;Full-Stack+%2B+Data+Mindset;Systems+%3E+Just+Code;Consistent.+Curious.+Shipping."/>
@@ -43,10 +43,10 @@
 ## 🧠 Engineering Philosophy
 
 ```
-                                     SYSTEMS      ████████████████████  Think architecture first, syntax second
-                                     ITERATION    ████████████████████  Build → Break → Optimize → Scale
-                                     IMPACT       ████████████████████  Code that solves real problems
-                                     CONSISTENCY  ████████████████████  Show up. Ship. Compound.
+                                     SYSTEMS     ¬_¬ ¬_¬ ¬_¬ ¬_¬ ¬_¬ ¬_¬  Think architecture first, syntax second
+                                     ITERATION   ¬_¬ ¬_¬ ¬_¬ ¬_¬ ¬_¬ ¬_¬  Build → Break → Optimize → Scale
+                                     IMPACT      ¬_¬ ¬_¬ ¬_¬ ¬_¬ ¬_¬ ¬_¬  Code that solves real problems
+                                     CONSISTENCY ¬_¬ ¬_¬ ¬_¬ ¬_¬ ¬_¬ ¬_¬  Show up. Ship. Compound.
 ```
 
 
