@@ -44,10 +44,10 @@
 
 ```yaml
 
-SYSTEMS:      "Think architecture first, syntax second"
-ITERATION:    "Build → Break → Optimize → Scale"
-IMPACT:       "Code that solves real problems"
-CONSISTENCY:  "Show up. Ship. Compound."
+                   SYSTEMS:      "Think architecture first, syntax second"
+                   ITERATION:    "Build → Break → Optimize → Scale"
+                   IMPACT:       "Code that solves real problems"
+                   CONSISTENCY:  "Show up. Ship. Compound."
 
 ```
 
