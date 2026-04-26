@@ -23,7 +23,7 @@
   <img src="https://raw.githubusercontent.com/Vagvedi/Vagvedi/output/github-contribution-grid-snake.svg" />
 </p>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vagvedi&theme=tokyo-night)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vagvedi&theme=tokyonight)
 
 ---
 
