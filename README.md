@@ -74,9 +74,8 @@
 <!-- TECH STACK -->
 ## ⚙️ Tech Stack
 
-
-<div>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,mongodb,mysql,git,github&theme=dark&perline=6"/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,mongodb,mysql,git,github&theme=dark"/>
 </div>
 
 
