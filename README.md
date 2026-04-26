@@ -74,23 +74,11 @@
 <!-- TECH STACK -->
 ## ⚙️ Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,mongodb,mysql,git,github,figma,linux&theme=dark&perline=6"/>
-</div>
-
-<br/>
 
 <div align="center">
-
-|  Layer |  Technologies |
-|:---:|:---:|
-| **Languages** | Python · JavaScript · TypeScript |
-| **Frontend** | React · HTML · CSS |
-| **Backend** | Node.js · Express.js |
-| **Databases** | MongoDB · MySQL |
-| **Tools** | Git · GitHub · Figma · Linux |
-
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,mongodb,mysql,git,github&theme=dark&perline=6"/>
 </div>
+
 
 ---
 
