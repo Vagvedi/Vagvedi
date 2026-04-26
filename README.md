@@ -42,24 +42,12 @@
 
 ## 🧠 Engineering Philosophy
 
-```js
-// core engineering principles — v∞, no deprecation planned
+SYSTEMS      ████████████████████  Think architecture first, syntax second
+ITERATION    ████████████████████  Build → Break → Optimize → Scale
+IMPACT       ████████████████████  Code that solves real problems
+CONSISTENCY  ████████████████████  Show up. Ship. Compound.
 
-const SYSTEMS      = "Think in systems, not just syntax";
-                   // architecture before implementation, always
 
-const ITERATION    = "Build → Break → Optimize → Scale";
-                   // embrace the cycle, relentlessly
-
-const IMPACT       = "Code for real-world change, not just output";
-                   // solve problems that actually matter
-
-const CONSISTENCY  = "Show up. Ship. Compound.";
-                   // consistency beats intensity, every time
-
-export default { SYSTEMS, ITERATION, IMPACT, CONSISTENCY };
-
-```
 
 <!-- TECH STACK -->
 ## ⚙️ Tech Stack
@@ -117,5 +105,4 @@ export default { SYSTEMS, ITERATION, IMPACT, CONSISTENCY };
 
 </div>
 
-═══════════════════════════════════════════════════════════
 -->
