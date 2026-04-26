@@ -24,7 +24,11 @@
 ## ⚡ Contribution Intelligence
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vagvedi&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vagvedi/Vagvedi/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vagvedi/Vagvedi/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Vagvedi/Vagvedi/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
