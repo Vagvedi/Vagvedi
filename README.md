@@ -43,10 +43,10 @@
 ## 🧠 Engineering Philosophy
 
 ```
-                                     SYSTEMS     ¬_¬ ¬_¬ ¬_¬ ¬_¬ ¬_¬ ¬_¬  Think architecture first, syntax second
-                                     ITERATION   ¬_¬ ¬_¬ ¬_¬ ¬_¬ ¬_¬ ¬_¬  Build → Break → Optimize → Scale
-                                     IMPACT      ¬_¬ ¬_¬ ¬_¬ ¬_¬ ¬_¬ ¬_¬  Code that solves real problems
-                                     CONSISTENCY ¬_¬ ¬_¬ ¬_¬ ¬_¬ ¬_¬ ¬_¬  Show up. Ship. Compound.
+                                     SYSTEMS     ¬_¬  Think architecture first, syntax second
+                                     ITERATION   ¬_¬  Build → Break → Optimize → Scale
+                                     IMPACT      ¬_¬  Code that solves real problems
+                                     CONSISTENCY ¬_¬  Show up. Ship. Compound.
 ```
 
 
