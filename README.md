@@ -42,12 +42,14 @@
 
 ## 🧠 Engineering Philosophy
 
+```diff
+@@  SYSTEMS      ════════════════════  Think architecture first, syntax second  @@
+@@  ITERATION    ════════════════════  Build → Break → Optimize → Scale          @@
+@@  IMPACT       ════════════════════  Code that solves real problems             @@
+@@  CONSISTENCY  ════════════════════  Show up. Ship. Compound.                  @@
+
 ```
-                                     SYSTEMS     ¬_¬  Think architecture first, syntax second
-                                     ITERATION   ¬_¬  Build → Break → Optimize → Scale
-                                     IMPACT      ¬_¬  Code that solves real problems
-                                     CONSISTENCY ¬_¬  Show up. Ship. Compound.
-```
+
 
 
 <!-- TECH STACK -->
