@@ -45,12 +45,28 @@
 
 <div align="center">
 
-| 🔷 Principle | 💡 Mindset |
-|:---:|:---:|
-| **SYSTEMS** | Think architecture first, syntax second |
-| **ITERATION** | Build → Break → Optimize → Scale |
-| **IMPACT** | Code that solves real problems |
-| **CONSISTENCY** | Show up. Ship. Compound. |
+<table>
+<tr>
+<th>⚡ Principle</th>
+<th>💭 Mindset</th>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/SYSTEMS-0078D4?style=for-the-badge"/></td>
+<td align="center">Think architecture first, syntax second</td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/ITERATION-0078D4?style=for-the-badge"/></td>
+<td align="center">Build → Break → Optimize → Scale</td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/IMPACT-0078D4?style=for-the-badge"/></td>
+<td align="center">Code that solves real problems</td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/CONSISTENCY-0078D4?style=for-the-badge"/></td>
+<td align="center">Show up. Ship. Compound.</td>
+</tr>
+</table>
 
 </div>
 
@@ -66,7 +82,7 @@
 
 <div align="center">
 
-| 🔷 Layer | 🔹 Technologies |
+|  Layer |  Technologies |
 |:---:|:---:|
 | **Languages** | Python · JavaScript · TypeScript |
 | **Frontend** | React · HTML · CSS |
