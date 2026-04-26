@@ -9,12 +9,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=120&section=header&text=&animation=fadeIn"/>
 
 ```
-                                            ██╗   ██╗ █████╗  ██████╗ ██╗   ██╗███████╗██████╗ ██╗
-                                            ██║   ██║██╔══██╗██╔════╝ ██║   ██║██╔════╝██╔══██╗██║
-                                            ██║   ██║███████║██║  ███╗██║   ██║█████╗  ██║  ██║██║
-                                            ╚██╗ ██╔╝██╔══██║██║   ██║╚██╗ ██╔╝██╔══╝  ██║  ██║██║
-                                              ╚████╔╝ ██║  ██║╚██████╔╝ ╚████╔╝ ███████╗██████╔╝██║
-                                               ╚═══╝  ╚═╝  ╚═╝ ╚═════╝   ╚═══╝  ╚══════╝╚═════╝ ╚═╝
+                                        ██╗   ██╗ █████╗  ██████╗ ██╗   ██╗███████╗██████╗ ██╗
+                                        ██║   ██║██╔══██╗██╔════╝ ██║   ██║██╔════╝██╔══██╗██║
+                                        ██║   ██║███████║██║  ███╗██║   ██║█████╗  ██║  ██║██║
+                                        ╚██╗ ██╔╝██╔══██║██║   ██║╚██╗ ██╔╝██╔══╝  ██║  ██║██║
+                                          ╚████╔╝ ██║  ██║╚██████╔╝ ╚████╔╝ ███████╗██████╔╝██║
+                                            ╚═══╝  ╚═╝  ╚═╝ ╚═════╝   ╚═══╝  ╚══════╝╚═════╝ ╚═╝
 ```
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&pause=500&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Real-World+Tech+Systems;Full-Stack+%2B+Data+Mindset;Systems+%3E+Just+Code;Consistent.+Curious.+Shipping."/>
@@ -49,56 +49,17 @@
 
 <p align="center"> <img src="https://raw.githubusercontent.com/Vagvedi/Vagvedi/output/github-contribution-grid-snake.svg" /> </p>
 
-> **Setup:** Add this GitHub Action to `.github/workflows/snake.yml` to auto-generate the snake SVG on every push and daily schedule — see setup instructions below.
-
 ---
 
 <!-- PHILOSOPHY -->
 ## 🧠 Engineering Philosophy
 
-<table>
-<tr>
-<td width="50%">
+commit a1b2c3d  →  SYSTEMS: Think in systems, not just syntax
+commit e4f5g6h  →  ITERATION: Build → Break → Optimize → Scale  
+commit i7j8k9l  →  IMPACT: Code for real-world change, not just output
+commit m1n2o3p  →  CONSISTENCY: Consistency beats intensity. Always.
 
-```
-01 → SYSTEMS
-Think in systems, not just syntax.
-Architecture before implementation.
-```
-
-</td>
-<td width="50%">
-
-```
-02 → ITERATION
-Build → Break → Optimize → Scale.
-Embrace the cycle, relentlessly.
-```
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-```
-03 → IMPACT
-Code for real-world change.
-Solve problems that matter.
-```
-
-</td>
-<td width="50%">
-
-```
-04 → CONSISTENCY
-Consistency beats intensity.
-Show up. Ship. Compound.
-```
-
-</td>
-</tr>
-</table>
-
+HEAD → main · 4 principles · no shortcuts
 ---
 
 <!-- TECH STACK -->
@@ -120,15 +81,6 @@ Show up. Ship. Compound.
 | **Databases** | MongoDB · MySQL |
 | **Tools** | Git · GitHub · Figma · Linux |
 
-</div>
-
----
-
-<!-- ACTIVITY GRAPH -->
-## 📈 Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vagvedi&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=ffffff&area=true&area_color=00F7FF" width="100%"/>
 </div>
 
 ---
