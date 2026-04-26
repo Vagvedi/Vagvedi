@@ -52,14 +52,24 @@
 ---
 
 <!-- PHILOSOPHY -->
-## 🧠 Engineering Philosophy
-
-commit a1b2c3d  →  SYSTEMS: Think in systems, not just syntax
-commit e4f5g6h  →  ITERATION: Build → Break → Optimize → Scale  
-commit i7j8k9l  →  IMPACT: Code for real-world change, not just output
-commit m1n2o3p  →  CONSISTENCY: Consistency beats intensity. Always.
-
-HEAD → main · 4 principles · no shortcuts
+🧠 Engineering Philosophy
+<pre>
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│   01 → SYSTEMS       Think in systems, not just syntax.         │
+│                      Architecture before implementation.        │
+│                                                                 │
+│   02 → ITERATION     Build → Break → Optimize → Scale.          │
+│                      Embrace the cycle, relentlessly.           │
+│                                                                 │
+│   03 → IMPACT        Code for real-world change.                │
+│                      Solve problems that matter.                │
+│                                                                 │
+│   04 → CONSISTENCY   Consistency beats intensity.               │
+│                      Show up. Ship. Compound.                   │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+</pre>
 ---
 
 <!-- TECH STACK -->
